@@ -4,4 +4,4 @@ Blue
 Green
 Yellow
 Orange
-Red.
+Red
