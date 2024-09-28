@@ -3,6 +3,7 @@ Indigo
 Blue
 Green
 Yellow
+Orange
 Red
 Unicorn
 Pony
